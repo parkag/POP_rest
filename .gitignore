@@ -1,1 +1,4 @@
 *.pyc
+app.db
+/src/dbrepository
+
